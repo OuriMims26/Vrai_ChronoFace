@@ -5,4 +5,5 @@ streamlit
 pillow
 pandas
 matplotlib
-numpypillow-heif
+numpy
+pillow-heif
